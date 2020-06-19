@@ -1,0 +1,42 @@
+_repo: Oeuvres-de-Marcel-Schwob-Volume-1-of-2-Spicilege_62393
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schwob, Marcel
+    aliases:
+    - Schwob, Mayer Andre Marcel
+    - Schwob, Mayer André Marcel
+    - Loyson-Bridet
+    birthdate: 1867
+    deathdate: 1905
+    gutenberg_agent_id: '7814'
+    url: http://www.gutenberg.org/2009/agents/7814
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Marcel_Schwob
+    - https://en.wikipedia.org/wiki/Marcel_Schwob
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouveautés
+gutenberg_issued: '2020-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62393'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Villon, François, 1431-1463'
+- !lcc 'PQ'
+- !lcsh 'Meredith, George, 1828-1909'
+- !lcsh 'French essays'
+- !lcsh 'Stevenson, Robert Louis, 1850-1894'
+- !lcsh 'Julian, the Hospitaller, Saint'
+- GITenberg
+tableOfContents: François Villon -- Robert Louis Stevenson -- George Meredith -- Plangôn
+  et Bacchis -- Saint Julien l'Hospitalier -- La terreur et la pitié -- La perversité
+  -- La différence et la ressemblance -- Le rire -- L'art de la biographie -- L'amour
+  -- L'art -- L'anarchie.
+title: Oeuvres de Marcel Schwob. Volume 1 of 2, Spicilège
+url: http://www.gutenberg.org/ebooks/62393
